@@ -2,6 +2,9 @@
 
 This project presents an interactive Sales Performance Dashboard created using Power BI and DAX to analyze business sales data.
 
+## 📸 Dashboard Preview
+Sales_dashboard.png
+
 ## 🔹 Key Features
 - Total Sales, Profit & Profit %
 - Sales vs Profit trend analysis
@@ -23,3 +26,5 @@ This project presents an interactive Sales Performance Dashboard created using P
 
 ## 🎯 Purpose
 This project is part of my learning journey in Data Analytics and Business Intelligence, focusing on building interactive dashboards and deriving business insights from data.
+
+
